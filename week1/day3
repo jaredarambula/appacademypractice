@@ -1,0 +1,20 @@
+
+
+let hometown = 'Valparaiso';
+let age = 32;
+let hero = 'Larry Bird';
+console.log(hometown);
+console.log(age + 5);
+console.log(hero[6]);
+console.log(age);
+age = age + 5;
+
+
+
+function goodbye(name) {
+    console.log(name);
+    return "bye " + name + ".";
+}
+goodbye("jared");
+
+// for (let i = 0; i <= 2;  i++)
